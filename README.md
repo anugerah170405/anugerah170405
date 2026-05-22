@@ -53,7 +53,7 @@ Where design thinking meets developer precision — building products that feel 
 
 | Project | Description | Stack |
 | --- | --- | --- |
-| **Paper (RAG)** | AI-powered research assistant focused on improving scientific journal workflows | React, TypeScript, Tailwind |
+| **Paper (RAG)** | AI-powered research assistant for scientific paper reading | React, TypeScript, Tailwind |
 | **LeafUp** | Agriculture recommendation mobile application with modern UI/UX | Figma, UI/UX |
 | **Todo + AI** | Productivity app with AI-assisted task management features | Flutter, Firebase |
 | **Terminal Chess Game** | Terminal-based chess game with OOP and move validation | Python, Algorithms |
